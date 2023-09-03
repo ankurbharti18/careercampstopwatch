@@ -1,0 +1,22 @@
+/* styles.css */
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#stopwatch {
+    font-size: 2em;
+}
+
+button {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
